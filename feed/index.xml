@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sweproject</title>
+	<atom:link href="http://alexwillingham98.github.io/Wordpressdemo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://alexwillingham98.github.io/Wordpressdemo</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 12 Sep 2022 16:31:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://alexwillingham98.github.io/Wordpressdemo/2022/09/12/hello-world/</link>
+					<comments>http://alexwillingham98.github.io/Wordpressdemo/2022/09/12/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 16:31:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://alexwillingham98.github.io/Wordpressdemo/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://alexwillingham98.github.io/Wordpressdemo/2022/09/12/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sunday Drop-in Community Meditation</title>
+		<link>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/sunday-drop-in-community-meditation/</link>
+					<comments>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/sunday-drop-in-community-meditation/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2022 17:58:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/finalproject/?p=173</guid>
+
+					<description><![CDATA[Weekly Mindfulness Sessions OnlineThese are difficult times. So let&#8217;s come together and practice some stress reduction and learn some adaptive coping skills. As counterintuitive as it may seem, paying attention to the thoughts, emotions and body sensations that are arising in these scary times may actually help us manage our stress. We can be blindsided by our [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="173" class="elementor elementor-173">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-d87fdf8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d87fdf8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-95859db" data-id="95859db" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5c25a47c elementor-widget elementor-widget-text-editor" data-id="5c25a47c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p><strong><u>Weekly Mindfulness Sessions Online</u><br /></strong>These are difficult times. So let&#8217;s come together and practice some stress reduction and learn some adaptive coping skills. As counterintuitive as it may seem, paying attention to the thoughts, emotions and body sensations that are arising in these scary times may actually help us manage our stress. We can be blindsided by our fears when we constantly push them away. Mindfulness practice is about paying attention to the present moment, whether we like it or not. Mindfulness doesn&#8217;t change the difficult times, it gives the deep roots we need to weather the storm.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>Open To All:</strong></p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>Sunday Mindfulness Session </strong><br />Join us each Sunday of the month live via Zoom<br />Start your week with a 30 to 40 minute meditation practice and brief discussion. No experience is required and all are welcome. A session may include guided meditation practice, shared experience and a brief reading or poem.<br /><strong>Start time is 4:00pm</strong> (sign on at 3:55)<br /><br />This event is free and open to the public.</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>Questions? </strong></p>
+<p><strong>Contact </strong><a href="mailto:mindfulalabama@gmail.com">mindfulalabama@gmail.com</a></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-888d434 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="888d434" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3c9c94" data-id="b3c9c94" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-75da429 elementor-align-center elementor-widget elementor-widget-button" data-id="75da429" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://us02web.zoom.us/j/82245994692?pwd=R2lzQjJQc1ZNcFRrSXJQajlDTjZpZz09" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Join Weekly Drop-In</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/sunday-drop-in-community-meditation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Book Study Course</title>
+		<link>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/new-book-study-course/</link>
+					<comments>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/new-book-study-course/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2022 17:53:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/finalproject/?p=160</guid>
+
+					<description><![CDATA[The Miracle of Mindfulness Led by Dr. Vanessa Miller-Curtis Thursday, April 21 through Thursday, May 26, 2022Time: 11:30am to 1:00pm (CST) Thich Nhat Hanh said, “mindfulness is the capacity to be here, to witness deeply everything that happens in the present moment.” This course is about learning to apply mindfulness to our everyday lives through the [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="160" class="elementor elementor-160">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-651808a3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="651808a3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7984972b" data-id="7984972b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50f8813e elementor-widget elementor-widget-text-editor" data-id="50f8813e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p><strong>The Miracle of Mindfulness <br /></strong>Led by Dr. Vanessa Miller-Curtis<strong><br /><br />Thursday, April 21 through Thursday, May 26, 2022<br />Time: 11:30am to 1:00pm (CST)<br /><br /></strong>Thich Nhat Hanh said, “mindfulness is the capacity to be here, to witness deeply everything that happens in the present moment.” This course is about learning to apply mindfulness to our everyday lives through the teachings in The Miracle of Mindfulness. We will practice together, sit together, and reflect on and embrace the changes mindfulness can bring.<br /><strong><br /></strong>The class will meet every Thursday for 1.5 hours a week for 6 weeks. </p>
+<p><strong>Cost $195.00<br />Book: The Miracle of Mindfulness by Thich Nhat Hanh</strong><br />  -Participants purchase their own book<br />  -Electronic versions of this book may be available for free online</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p><strong>Vanessa Miller-Curtis, Ph.D.</strong> has over 12 years of experience in a variety of settings. Vanessa has spent several years developing and leading educational programs in the areas of Mindfulness, Shame and Guilt, and Contemplative Psychology in prison settings, outpatient clinics, and brain injury recovery and support groups. The effectiveness of therapeutic and educational programming for anyone on their overall well-being and its use as a tool to address anger, anxiety and other mental health issues is at the core of this work. Therapeutic educational programs pertain to psychological health and well-being. The importance of therapeutic and educational programming for any human being cannot adequately be expressed. For some, this may be the first opportunity to address a lifetime of maladaptive behaviors.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6e9bb9e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e9bb9e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-69f6a1a" data-id="69f6a1a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a57bb94 elementor-align-center elementor-widget elementor-widget-button" data-id="a57bb94" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/finalproject/register/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Register Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/new-book-study-course/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In Person Stress Reduction Class</title>
+		<link>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/in-person-stress-reduction-class/</link>
+					<comments>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/in-person-stress-reduction-class/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2022 17:50:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/finalproject/?p=155</guid>
+
+					<description><![CDATA[Mindfulness-Based Stress Reduction (MBSR) ClassTuesday Nights September 20, 2022 &#8211; November 8, 2022 &#8211; 5:30pm-8:00pmRequired orientation September 13, 2022This class is taught by a certified MBSR teacher and is the same course offered at hospitals, medical schools, colleges/universities and other institutions around the world. MBSR is the most researched evidence-based mindfulness program in the country. Over 40 years [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="155" class="elementor elementor-155">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6d1825b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d1825b0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6d1cf37" data-id="6d1cf37" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-861a584 elementor-widget elementor-widget-text-editor" data-id="861a584" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p><strong>Mindfulness-Based Stress Reduction (MBSR) Class</strong><br />Tuesday Nights September 20, 2022 &#8211; November 8, 2022 &#8211; 5:30pm-8:00pm<br />Required orientation September 13, 2022<br /><strong><br />This class is taught by a certified MBSR teacher and is the same course offered at hospitals, medical schools, colleges/universities and other institutions around the world. MBSR is the most researched evidence-based mindfulness program in the country. </strong>Over 40 years of research has shown statistically significant improvements in symptoms associated with certain illnesses, as well as, other physical and mental health. Participants in MBSR classes often report a greater sense of well-being and reduction in perceived stress. Classes are 2.5 hours in length and are held once a week for 8 weeks. Each class includes educational components, meditation, discussion and gentle movement. <br /><br /><strong>8 Week Stress Reduction Program </strong><br />Tuesday evenings September 20, 2022 &#8211; November 8, 2022 from 5:30pm &#8211; 8:00pm<br /><strong>Required Orientation on Tuesday, September 13, 2022</strong> from 5:30pm-8:00pm<br />All Day Retreat on Saturday, Saturday, October 29, 2022 from 8:30am &#8211; 4:00pm</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Since many participants who take MBSR have a pre-existing medical condition all participants are required to show proof of Covid-19 vaccination. Masking requirements will follow CDC guidelines. </p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>If you have any questions, feel free to contact mindfulalabama@gmail.com<br />​<br /><strong>Cost: $395 </strong><br />Location: Crestwood Medical Center Women&#8217;s Center, Huntsville, AL</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Refund Policy: Refunds will be given, minus a $25 admin fee, if request is made in writing via email 2 weeks prior to class. No refunds will be given for cancellations less than 2 weeks prior to class.. If registrant does not provide notice prior to first class, neither refund nor credit toward future class will be given. Cancellation Policy: The Alabama Institute for Mindfulness, LLC reserves the right to cancel class due to low enrollment, prediction of severe weather events or other unforeseen circumstances. A full refund will be provided should the class be cancelled.​</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c4623d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c4623d9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e268b2" data-id="7e268b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7010619 elementor-align-center elementor-widget elementor-widget-button" data-id="7010619" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/finalproject/register/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Register Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://alexwillingham98.github.io/Wordpressdemo/2022/04/24/in-person-stress-reduction-class/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
